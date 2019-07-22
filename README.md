@@ -2,7 +2,7 @@
 
 Generate urllist.txt sitemap.
 
-urllist.txt is an old time of sitemap once used by Yahoo. It's simply a text file with URL lists of all your Website Pages in plain text one per line.
+urllist.txt is an old type of sitemap once used by Yahoo. It's simply a text file with URL lists of all your Website Pages in plain text one per line.
 
 I realize that it's not needed if you have a sitemap.xml file. However, I prefer to server a small text file rather than a 404 page. This is especially true if your 404 page is a custom page with heavier html, css, and JavaScript.
 
