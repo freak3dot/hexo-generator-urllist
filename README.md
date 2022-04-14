@@ -29,4 +29,13 @@ sitemap:
 
 Add `sitemap: false` to the post's front matter.
 
+## Known Issues
 
+If you are using this with hexo-asset-pipeline, you probably need to exclude `urllist.txt`.
+
+```yaml
+asset_pipeline:
+  revisioning:
+    enable: true
+    exclude: ['urllist.txt']
+```
