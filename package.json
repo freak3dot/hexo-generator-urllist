@@ -1,13 +1,9 @@
 {
   "name": "hexo-generator-urllist",
   "version": "1.0.1",
-  "description": "urllist sitemap generator plugin for Hexo",
+  "description": "urlist sitemap generator plugin for Hexo",
   "main": "index",
-  "scripts": {
-    "eslint": "eslint .",
-    "test": "mocha test/index.js",
-    "test-cov": "nyc npm run test"
-  },
+  "scripts": {},
   "directories": {
     "lib": "./lib"
   },
